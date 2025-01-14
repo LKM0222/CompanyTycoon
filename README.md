@@ -1,2 +1,3 @@
-# MysticGardener
-신비한 정원사
+# CompanyTycoom
+
+재미있는 놀이~~
